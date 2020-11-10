@@ -129,7 +129,7 @@
       },
     "ALIVE_S_MESSAGE": {
       "description": "Edit if you want",
-      "value": "Iam Alive!",
+      "value": "CHETAN KI AMMMA ME JHAAD DIA",
       "required": false
       
       },
@@ -147,7 +147,7 @@
       },
     "JAVES_NAME": {
       "description": "You can edit bot's name",
-      "value": "Javes ",
+      "value": "CHETAN KA ASLI BAAP ",
       "required": false
     
     },
@@ -166,7 +166,7 @@
     },
     "AFK_MESSAGE": {
       "description": "Edit if you want!",
-      "value": "Hello Sir, My master offline just leave your message, Thankyou!",
+      "value": " AAALE LE BETA CHETAN TUMHARI MAA XHUD RAHI HAI SAR SE ISILIYE OFFLINE BAI VO!",
       "required": false
            
       
